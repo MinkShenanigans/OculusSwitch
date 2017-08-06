@@ -7,3 +7,6 @@ Opening the program will prompt for admin permissions, as this is needed to acce
 the program will open a command line window for a split second before closing it.
 
 If you wish to see the output of the program, run it via command line, outputs will show if it has succeeded in turning the service on / off.
+
+Possible future features:
+- Enabling and disabling VR modes using the headset sensor.
